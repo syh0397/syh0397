@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=200&section=header&text=🧑🏻‍💻YooHwan%20Github&fontSize=50&textBg=true&animation=fadeIn)
   
-## 🔥 Improving Value
+## 🔥 Improving Business Value
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyh0397&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -15,7 +15,7 @@
 
   ---
   
-#### 💻 Tech 💻
+## 💻 Tech 💻
 
   
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)](https://github.com/syh0397)
@@ -28,7 +28,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white)](https://github.com/syh0397)
 
   
-#### 📚 Etc 📚
+## 📚 Etc 📚
   
 [![MicrosoftOffice](https://img.shields.io/badge/MicrosoftOffice-D83B01?style=plastic&logo=MicrosoftOffice&logoColor=white)](https://github.com/syh0397)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=Anaconda&logoColor=white)](https://github.com/syh0397)
@@ -36,7 +36,7 @@
 
 ----- 
 
-###  🌱 I’m currently learning
+##  🌱 I’m currently learning
 
  **✅ SQL Query**
   
