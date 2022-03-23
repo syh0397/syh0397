@@ -10,7 +10,6 @@
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white)](mailto:syh34360397@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/sir_uhwan/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yoohwan-seol-689351196/)
 
   ---
